@@ -5,9 +5,7 @@
 * Passionate about leveraging data to drive insights and decision-making
 
 🚀 What You'll Find Here
-* Research paper on distribution of EV subsidies across incomes in Washington state
-* Financial data and stock performance analysis
-* Projects involving statistical modeling & regression analysis
+* My portfolio with a couple of my projects
 
 📚 Course Highlights
 * Applied Econometrics w/ Python
