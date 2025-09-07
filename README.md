@@ -16,7 +16,7 @@
 🛠️ Skills & Tools
 * Python (Pandas, NumPy, Scikit-learn, SciPy, Matplotlib)
 * R (tidyverse, ggplot2, dplyr)
-* MySQL
+* Snowflake (MySQL)
 
 
 <!--
