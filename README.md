@@ -1,6 +1,7 @@
 ## Hi there 👋
 📌 About Me
-* Master of Quantitative Economics student @ UCLA
+* Bachelor's in Economics from the University of Oregon
+* 2nd Year Master of Quantitative Economics student @ UCLA
 * Track & Field student-athlete
 * Passionate about leveraging data to drive insights and decision-making
 
