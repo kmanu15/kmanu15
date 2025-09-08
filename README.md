@@ -6,7 +6,7 @@
 * Passionate about leveraging data to drive insights and decision-making
 
 🚀 What You'll Find Here
-* My portfolio with a couple of my projects
+* Repositories with a couple of my projects from undergrad and grad school
 
 📚 Course Highlights
 * Applied Econometrics w/ Python
