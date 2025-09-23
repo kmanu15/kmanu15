@@ -15,7 +15,7 @@
 * Applied Data Management
 
 🛠️ Skills & Tools
-* Python (Pandas, NumPy, Scikit-learn, SciPy, Matplotlib)
+* Python (Pandas, NumPy, Scikit-learn, SciPy, Matplotlib, Seaborn)
 * R (tidyverse, ggplot2, dplyr)
 * Snowflake (MySQL)
 
