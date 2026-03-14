@@ -8,12 +8,6 @@
 🚀 What You'll Find Here
 * Repositories with a couple of my projects from undergrad and grad school
 
-📚 Course Highlights
-* Applied Econometrics w/ Python
-* Data Science for Financial Time Series
-* Machine Learning
-* Asset Price Forecasting
-
 🛠️ Skills & Tools
 * Python (Matplotlib, NumPy, Pandas, PyTorch, Scikit-learn, SciPy, Seaborn, Statsmodels, Transformers)
 * R (tidyverse, ggplot2, dplyr)
@@ -21,6 +15,12 @@
 * Excel
 * AWS
 * Tableau
+
+📚 Course Highlights
+* Applied Econometrics w/ Python
+* Data Science for Financial Time Series
+* Machine Learning
+* Asset Price Forecasting
 
 
 <!--
