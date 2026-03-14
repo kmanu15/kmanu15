@@ -15,7 +15,7 @@
 * Asset Price Forecasting
 
 🛠️ Skills & Tools
-* Python (Pytorch, Pandas, NumPy, Scikit-learn, SciPy, Statsmodels, Matplotlib, Seaborn)
+* Python (Matplotlib, NumPy, Pandas, PyTorch, Scikit-learn, SciPy, Seaborn, Statsmodels, Transformers)
 * R (tidyverse, ggplot2, dplyr)
 * SQL
 * Excel
