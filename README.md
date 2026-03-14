@@ -1,8 +1,8 @@
 ## Hi there 👋
 📌 About Me
-* Bachelor's in Economics from the University of Oregon
-* 2nd Year Master of Quantitative Economics student @ UCLA
-* Track & Field student-athlete
+* B.S. in Economics, University of Oregon '24
+* Master of Quantitative Economics, UCLA '26
+* Former Division I Track & Field Athlete (University of Oregon & UCLA)
 * Passionate about leveraging data to drive insights and decision-making
 
 🚀 What You'll Find Here
@@ -17,7 +17,10 @@
 🛠️ Skills & Tools
 * Python (Pytorch, Pandas, NumPy, Scikit-learn, SciPy, Statsmodels, Matplotlib, Seaborn)
 * R (tidyverse, ggplot2, dplyr)
-* MySQL
+* SQL
+* Excel
+* AWS
+* Tableau
 
 
 <!--
