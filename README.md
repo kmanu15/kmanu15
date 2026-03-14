@@ -12,12 +12,12 @@
 * Applied Econometrics w/ Python
 * Data Science for Financial Time Series
 * Machine Learning
-* Applied Data Management
+* Asset Price Forecasting
 
 🛠️ Skills & Tools
-* Python (Pandas, NumPy, Scikit-learn, SciPy, Statsmodels, Matplotlib, Seaborn)
+* Python (Pytorch, Pandas, NumPy, Scikit-learn, SciPy, Statsmodels, Matplotlib, Seaborn)
 * R (tidyverse, ggplot2, dplyr)
-* Snowflake (MySQL)
+* MySQL
 
 
 <!--
