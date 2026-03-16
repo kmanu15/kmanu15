@@ -6,7 +6,7 @@
 * Passionate about leveraging data to drive insights and decision-making
 
 🚀 What You'll Find Here
-* Repositories with a couple of my projects from undergrad and grad school
+* Repositories with a couple of my personal and school projects
 
 🛠️ Skills & Tools
 * Python (Matplotlib, NumPy, Pandas, PyTorch, Scikit-learn, SciPy, Seaborn, Statsmodels, Transformers)
