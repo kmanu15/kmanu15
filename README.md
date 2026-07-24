@@ -13,7 +13,7 @@
 * R (tidyverse, ggplot2, dplyr)
 * SQL
 * Excel
-* AWS
+* Bloomberg Terminal
 * Tableau
 
 📚 Course Highlights
